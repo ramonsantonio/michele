@@ -9,3 +9,25 @@ html {
     font-family: Arial, Helvetica, sans-serif;
     background-color: #c4c3c3;
 }
+
+.flex {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+} 
+
+/* inicial */
+
+.inicial {
+    padding: 50px 5%;
+}
+
+.scripit-inicial .scripit-h1 h1 {
+    color: #cc7349;
+    font-size: 50px;
+} 
+
+.scripit-h2 h2 {
+    color: #cc7349;
+    font-size: 40px;
+}
